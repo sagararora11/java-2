@@ -5,6 +5,7 @@ class DisplayHello
 {
 System.out.print("Hello");
 System.out.println("Hello!");
+		System.out.println("Hello!");
 }
 }
 
